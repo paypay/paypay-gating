@@ -5,7 +5,6 @@
 The following example workflow step
 ```yaml
 jobs:
-  check-dependencies:
-    name: Check dependencies
+  gating:
     uses: paypay/paypay-gating/.github/workflows/reusable-workflow.yml@releases/v1
 ```

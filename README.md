@@ -1,4 +1,4 @@
-# paypya-gating
+# paypay-gating
 > The central repository of Gating GitHub Actions
 
 ## Usage
